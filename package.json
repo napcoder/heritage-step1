@@ -22,5 +22,8 @@
   },
   "standard": {
     "envs": ["jest"]
+  },
+  "engines": {
+    "node": ">= 16"
   }
 }
